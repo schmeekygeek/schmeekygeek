@@ -23,8 +23,10 @@
 <img align="left" height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 <img align="left" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg">
 <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
+<img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg">
+
 
 <br><br/>
 
 ### My Github Stats: 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=schmeekygeek&show_icons=true&theme=radical" alt="schmeekygeek" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=schmeekygeek&show_icons=true&theme=radical" alt="schmeekygeek" />
