@@ -15,7 +15,7 @@
 <br></br>
 **Being an enthusiast Linux and open-source software user, I strive to make my software as open-source as possible and to contribute to open-source projects as much as I can** 
 
-### Languages and tools I have a firm understanding of: 
+### Languages and Tools:
 
 <img align="left" height="50" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
