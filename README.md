@@ -1,5 +1,4 @@
 # Helloo
-<img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="220" height="122" />
 
 <a href="https://discord.com/users/687543682269708298">
   <img align="center" alt="Abdul Samad's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -12,6 +11,8 @@
 
 - Flutter and Spring Boot developer
 - Open source enjoyer
+
+<br></br>
 
 ### Languages and Tools:
 
