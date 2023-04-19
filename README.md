@@ -3,18 +3,12 @@
 <a href="https://discord.com/users/687543682269708298">
   <img align="center" alt="Abdul Samad's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-
-<a href="https://www.linkedin.com/in/abdul-samad-shaikh-57b8b2220/">
-  <img align="left" alt="Abdul Samad Shaikh's linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br></br>
 
-- Flutter and Spring Boot developer
-- Open source enjoyer
+Mobile and backend engineer, currently learning rust
+**My blog site where i write sometimes:** https://schmeeky.pages.dev
 
-<br></br>
-
-### Languages and Tools:
+### Languages and tools i can use
 
 <img align="left" height="50" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
