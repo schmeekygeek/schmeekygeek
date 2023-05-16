@@ -6,9 +6,10 @@
 <br></br>
 
 Mobile and backend engineer, currently learning rust
+
 **My blog site where i write sometimes:** https://schmeeky.pages.dev
 
-### Languages and tools i can use
+### My languages and tools
 
 <img align="left" height="50" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
